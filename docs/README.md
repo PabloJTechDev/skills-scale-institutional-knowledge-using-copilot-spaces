@@ -17,6 +17,8 @@ Quality is embedded throughout our development process. We leverage continuous i
 ## Detailed Documentation
 
 For more in-depth information on specific topics, please refer to these detailed process documents in this directory:
+
+### Core Process Documents
 - `octoacme-project-management-overview.md` - Comprehensive overview of our project management approach
 - `octoacme-project-initiation.md` - Detailed guidance on starting new projects
 - `octoacme-project-planning.md` - Planning phase processes and artifacts
@@ -25,3 +27,11 @@ For more in-depth information on specific topics, please refer to these detailed
 - `octoacme-risks-and-communication.md` - Risk management and stakeholder communication
 - `octoacme-retrospective-and-continuous-improvement.md` - Retrospective practices and continuous improvement
 - `octoacme-roles-and-personas.md` - Detailed role definitions and responsibilities
+
+### Supporting Guides and Checklists
+- `release-manager-checklist.md` - Comprehensive release checklist covering pre-release, release, and post-release steps
+- `risk-escalation-flow.md` - Step-by-step risk escalation procedures and decision points
+- `qa-process-and-responsibilities.md` - QA testing responsibilities, sign-off criteria, and handoff procedures
+
+### Templates
+- `templates/process-update-request.md` - Template for proposing process documentation updates
